@@ -8,69 +8,68 @@
             <div class="slide-track">
 
                <div class="slide" id="illustrator">
-                  <img src="../../../dist/assets/img/Illustrator.png" alt="">
+                  <img src="../../../dist/assets/img/Illustrator.png" alt="Illustrator" title="Illustrator">
                </div>
                <div class="slide">
-                  <img src="../../../dist/assets/img/Laravel.png" alt="">
+                  <img src="../../../dist/assets/img/Laravel.png" alt="Laravel" title="Laravel">
                </div>
                <div class="slide">
-                  <img src="../../../dist/assets/img/mysql.png" alt="">
+                  <img src="../../../dist/assets/img/mysql.png" alt="MySQL" title="MySQL">
                </div>
                <div class="slide">
-                  <img src="../../../dist/assets/img/photoshop.png" alt="">
+                  <img src="../../../dist/assets/img/photoshop.png" alt="Photoshop" title="Photoshop">
                </div>
                <div class="slide">
-                  <img src="../../../dist/assets/img/php.svg" alt="">
+                  <img src="../../../dist/assets/img/php.svg" alt="PHP" title="PHP">
                </div>
                <div class="slide">
-                  <img src="../../../dist/assets/img/vsc.png" alt="">
+                  <img src="../../../dist/assets/img/vsc.png" alt="VisuaStudioCode" title="VisuaStudioCode">
                </div>
                <div class="slide">
-                  <img src="../../../dist/assets/img/logo_html_css.png" alt="">
+                  <img src="../../../dist/assets/img/logo_html_css.png" alt="Html & Css" title="Html & Css">
                </div>
                <div class="slide" id="js">
-                  <img src="../../../dist/assets/img/logo_js.png" alt="">
+                  <img src="../../../dist/assets/img/logo_js.png" alt="Javascript" title="Javascript">
                </div>
                <div class="slide" id="github">
-                  <img src="../../../dist/assets/img/github.png" alt="">
+                  <img src="../../../dist/assets/img/github.png" alt="Github" title="GitHub">
                </div>
                <div class="slide">
-                  <img src="../../../dist/assets/img/vue.png" alt="">
+                  <img src="../../../dist/assets/img/vue.png" alt="Vue" title="Vue">
                </div>
 
                <!-- doppioni -->
 
                <div class="slide" id="illustrator">
-                  <img src="../../dist/assets/img/Illustrator.png" alt="">
+                  <img src="../../../dist/assets/img/Illustrator.png" alt="Illustrator" title="Illustrator">
                </div>
                <div class="slide">
-                  <img src="../../dist/assets/img/Laravel.png" alt="">
+                  <img src="../../../dist/assets/img/Laravel.png" alt="Laravel" title="Laravel">
                </div>
                <div class="slide">
-                  <img src="../../dist/assets/img/mysql.png" alt="">
+                  <img src="../../../dist/assets/img/mysql.png" alt="MySQL" title="MySQL">
                </div>
                <div class="slide">
-                  <img src="../../dist/assets/img/photoshop.png" alt="">
+                  <img src="../../../dist/assets/img/photoshop.png" alt="Photoshop" title="Photoshop">
                </div>
                <div class="slide">
-                  <img src="../../dist/assets/img/php.svg" alt="">
+                  <img src="../../../dist/assets/img/php.svg" alt="PHP" title="PHP">
                </div>
                <div class="slide">
-                  <img src="../../dist/assets/img/vsc.png" alt="">
+                  <img src="../../../dist/assets/img/vsc.png" alt="VisuaStudioCode" title="VisuaStudioCode">
                </div>
                <div class="slide">
-                  <img src="../../dist/assets/img/logo_html_css.png" alt="">
+                  <img src="../../../dist/assets/img/logo_html_css.png" alt="Html & Css" title="Html & Css">
                </div>
                <div class="slide" id="js">
-                  <img src="../../dist/assets/img/logo_js.png" alt="">
+                  <img src="../../../dist/assets/img/logo_js.png" alt="Javascript" title="Javascript">
                </div>
                <div class="slide" id="github">
-                  <img src="../../dist/assets/img/github.png" alt="">
+                  <img src="../../../dist/assets/img/github.png" alt="Github" title="GitHub">
                </div>
                <div class="slide">
-                  <img src="../../dist/assets/img/vue.png" alt="">
+                  <img src="../../../dist/assets/img/vue.png" alt="Vue" title="Vue">
                </div>
-
             </div>
 
          </div>

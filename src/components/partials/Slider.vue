@@ -10,7 +10,7 @@
                <div class="slide" id="illustrator">
                   <img src="../../../dist/assets/img/Illustrator.png" alt="Illustrator" title="Illustrator">
                </div>
-               <div class="slide">
+               <div class="slide" id="laravel">
                   <img src="../../../dist/assets/img/Laravel.png" alt="Laravel" title="Laravel">
                </div>
                <div class="slide">
@@ -43,7 +43,7 @@
                <div class="slide" id="illustrator">
                   <img src="../../../dist/assets/img/Illustrator.png" alt="Illustrator" title="Illustrator">
                </div>
-               <div class="slide">
+               <div class="slide" id="laravel">
                   <img src="../../../dist/assets/img/Laravel.png" alt="Laravel" title="Laravel">
                </div>
                <div class="slide">
@@ -75,10 +75,6 @@
          </div>
          
       </div>
-   </div>
-
-   <div class="main">
-      Questo è il main
    </div>
 
 </template>
@@ -153,16 +149,10 @@ img{
 
 #github img,
 #illustrator img,
-#js img{
+#js img,
+#laravel img{
    width: 75%;
    margin: 0 auto;
-}
-
-/* fine slider */
-
-.main{
-   height: 1000px;
-   background-color: blueviolet;
 }
 
 </style>

@@ -5,7 +5,20 @@
    <Slider />
 
    <div class="main">
-      Questo è il main
+
+      <div class="container">
+
+         <div class="myself">
+            prova
+         </div>
+
+         <div class="nerd-image">
+            prova
+         </div>
+
+      </div>
+
+
    </div>
 
 </template>
@@ -24,7 +37,7 @@ export default {
 
 </script>
 
-<style>
+<style scoped>
 
 .jumbotron{
    width: 100vw;
@@ -33,66 +46,33 @@ export default {
    /* padding-top: 30px; */
 }
 
-.container-jumbo{
-   width: 80%;
+.container{
+   width: 85%;
    margin: 35px auto;
 }
 
-/* slider */
-
-.slider{
-   height: 100px;
-   margin:auto;
-   position: relative;
-   width: 100%;
-   display: grid;
-   place-items: center;
-   overflow: hidden;
-}
-
-.slide-track{
+.main .container{
    display: flex;
-   width: calc(150px * 20);
-   animation: scroll 100s linear infinite;
+   justify-content: space-between;
+   align-self: center;
 }
-
-.slide-track:hover{
-   animation-play-state: paused;
-}
-
-@keyframes scroll {
-   0%{
-      transform: translateX(0);
-   }
-   100%{
-      transform: translateX(calc(-150px * 10));
-   }
-}
-
-.slide{
-   height: 90px;
-   width: 130px;
-   display:flex;
-   align-content: center;
-   padding: 15px;
-}
-
-img{
-   width: 100%;
-}
-
-#github img,
-#illustrator img,
-#js img{
-   width: 75%;
-   margin: 0 auto;
-}
-
-/* fine slider */
-
 .main{
-   height: 1000px;
    background-color: blueviolet;
+   padding: 50px;
 }
+
+.myself,
+.nerd-image{
+   width: 45%;
+}
+
+.myself{
+   background-color: burlywood;
+}
+
+.nerd-image{
+   background-color:yellowgreen;
+}
+
 
 </style>
